@@ -1,8 +1,11 @@
 ---
 layout: default
-title: readme
-nav_exclude: true
+title: 00.Introduction
+nav_order: 1
 ---
+
+# 00.Introduction
+<br><br>
 
 [L-DEVO M3145](http://www.l-devo.com/lineup)の使用マニュアルです。<br>
 FabLab SENDAI - FLATでの使用方法をベースにまとめられた内容なので、<br>
